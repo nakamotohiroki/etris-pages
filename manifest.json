@@ -45,13 +45,13 @@
     {
       "src": "screenshot_home_wide.png",
       "type": "image/png",
-      "sizes": "886x1366",
+      "sizes": "1366x886",
       "form_factor": "wide"
     },
     {
       "src": "screenshot_play_wide.png",
       "type": "image/png",
-      "sizes": "886x1366",
+      "sizes": "1366x886",
       "form_factor": "wide"
     }
   ]

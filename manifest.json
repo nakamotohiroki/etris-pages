@@ -33,12 +33,12 @@
     {
       "src": "screenshot_home.png",
       "type": "image/png",
-      "sizes": "375x667"
+      "sizes": "660x1174"
     },
     {
       "src": "screenshot_play.png",
       "type": "image/png",
-      "sizes": "375x667"
+      "sizes": "660x1174"
     }
   ]
 }

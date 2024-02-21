@@ -1,7 +1,7 @@
 {
   "theme_color": "#f69435",
   "background_color": "#f69435",
-  "display": "browser",
+  "display": "fullscreen",
   "scope": "/etris-pages",
   "start_url": "/etris-pages",
   "name": "etris",

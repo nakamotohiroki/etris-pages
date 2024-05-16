@@ -2,7 +2,9 @@
 
 自己学習用に「パズルゲーム　えトリス」を単独で開発しました。
 
-[こちら](https://nakamotohiroki.github.io/etris-pages/)から実際に遊ぶことが出来ます。
+下記URLから実際に遊ぶことが出来ます。
+https://nakamotohiroki.github.io/etris-pages/
+※同タブで遷移してしまうので、右クリックで別タブで開くことをお勧めします。
 
 ## 遊び方
 

@@ -26,4 +26,4 @@ webGLページ ： https://nakamotohiroki.github.io/etris-pages/webGL
 
 バックエンド API： AWS Lambda, Amazon API Gateway, Python, PyTorch
 
-ホスティング先 ： GitHub Page, S3+CloudFront
+ホスティング先 ： GitHub Pages, S3+CloudFront

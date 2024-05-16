@@ -16,7 +16,7 @@
 
 ## システム構成図
 
-<img src="./readme-img/システム構成図.drawio.png" width="80%" alt="画像読み込みエラー">
+<img src="https://github.com/nakamotohiroki/etris-pages/assets/85219228/50044073-dfb1-466e-85ec-0cca4710b47b" width="80%" alt="画像読み込みエラー">
 
 ## 使用技術
 

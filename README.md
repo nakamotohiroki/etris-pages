@@ -14,7 +14,7 @@ webGL ページ ： https://nakamotohiroki.github.io/etris-pages/webGL
 
 2021 年 8 月 ：　自己学習としてベースを作成  
 2022 年 10 月　：　画像生成 AI を使ったページの追加  
-2023 年 12 月　：　 CodePipeline+EC2 から GitHubActions+GitHubPages に変更
+2023 年 12 月　：　 AWS CodePipeline + Amazon EC2 から GitHubActions + GitHubPages に変更
 
 ## システム構成図
 
@@ -26,4 +26,4 @@ webGL ページ ： https://nakamotohiroki.github.io/etris-pages/webGL
 
 バックエンド API： AWS Lambda, Amazon API Gateway, Python, PyTorch
 
-ホスティング先 ： GitHub Pages, S3+CloudFront
+ホスティング先 ： GitHub Pages, Amazon S3 + Amazon CloudFront
